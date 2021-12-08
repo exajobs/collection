@@ -1,5 +1,8 @@
 # Collection of Collections
 
+> Welcome To The World of Collection of Collections ®. A collection of (of collections) software, libraries, documents, books, videos, presentations, resources, about the most interesting things on Github.
+> Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+
 - [Collection of Collections](#collection-of-collections)
   - [Non-technical](#non-technical)
   - [Technical](#technical)
