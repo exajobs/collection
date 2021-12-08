@@ -1,6 +1,6 @@
 # Collection of Collections
 
-- [Lists](#lists)
+- [Collection of Collections](#collection-of-collections)
   - [Non-technical](#non-technical)
   - [Technical](#technical)
     - [awesome-*](#awesome-)
