@@ -510,6 +510,8 @@
 * [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles) _In Chinese_
 * [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) – People choose popular projects, often not because it applies to their problems.
 
+[Back to top](#collection-of-collections)
+
 
 ### awesome-*
 
@@ -1448,3 +1450,5 @@
 ## License
 
 MIT License
+
+[Back to top](#collection-of-collections)
